@@ -1,4 +1,7 @@
+# Latest Release
+[Link](https://github.com/HyperLS/Discord-Bot-Phone-/releases/tag/V1.0.2)
 # Bot Phone™
+
 With This Simple Discord.js Project
 
 Your Discord Bot Will Be Online With A Suprise
