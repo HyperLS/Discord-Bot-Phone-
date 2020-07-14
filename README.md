@@ -1,5 +1,5 @@
 # Latest Release
-[Link](https://github.com/HyperLS/Discord-Bot-Phone-/releases/tag/V1.0.2)
+[Link](https://github.com/HyperLS/Discord-Bot-Phone-/releases)
 # Bot Phone™
 
 With This Simple Discord.js Project
